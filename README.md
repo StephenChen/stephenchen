@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning golang
+- 📫 How to reach me: 
+  - wechat: chen_xinyuan
+  - email: stephenchen.me@gmail.com
 <!--
 **StephenChen/stephenchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
